@@ -1,2 +1,2 @@
-# fit_gpt
+# FitGPT
 LLM-powered fitness coach
